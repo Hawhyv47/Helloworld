@@ -36,6 +36,7 @@ public class Ifstatements {
 			}
 			if (fethers == false) {
 				System.out.println("Yoyu have found a reptile.");
+				System.out.println("Hi there! I like cheese");
 			}
 		}
 			if (scales == false) {
